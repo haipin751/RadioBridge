@@ -1,3 +1,5 @@
+**English** | [简体中文](README.zh-CN.md)
+
 # RadioBridge v3.0
 
 **RadioBridge** is a lightweight **BepInEx 5** plugin and **turn-based Python CLI** for the tactical strategy game *Radio Commander*. It exposes a local HTTP bridge (`127.0.0.1:8765`) inside the game and provides blocking CLI tools so humans or AI agents can command platoons purely through radio communications, mission objectives, and map coordinates in a strict turn-based loop.
