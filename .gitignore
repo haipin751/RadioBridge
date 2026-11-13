@@ -1,0 +1,21 @@
+# Compiled binaries & build outputs
+*.dll
+*.exe
+*.pdb
+bin/
+obj/
+build/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE / OS files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
